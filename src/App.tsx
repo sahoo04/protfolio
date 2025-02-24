@@ -238,7 +238,7 @@ function App() {
               </motion.button>
               </a>
               <a
-                href="https://drive.google.com/uc?export=download&id=1g-FgcAjeKyv27bEC1Q-feOZBH5C5ZQPh"
+                href="https://drive.google.com/uc?export=download&id=1uyt_6j7SkpiNrMbJ5-48DXh-4xVuBYm3"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -283,7 +283,7 @@ function App() {
                 transition={{ delay: 0.5 }}
               >
                 
-                <p className="text-blue-100 text-sm">Blockchain Development</p>
+                <p className="text-blue-100 text-sm">Blockchain Developer</p>
               </motion.div>
             </div>
           </motion.div>
